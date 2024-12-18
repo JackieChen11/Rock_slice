@@ -1,0 +1,12 @@
+[
+    {
+        "image_path": "./val_folder/显微图像数据01橄榄石_val/显微图像数据01橄榄石/005(+).jpg",
+        "predicted_class": "class03",
+        "true_class": "ccla0"
+    },
+    {
+        "image_path": "./val_folder/显微图像数据01橄榄石_val/显微图像数据01橄榄石/005(+).jpg",
+        "predicted_class": "class02",
+        "true_class": "00"
+    }
+]
